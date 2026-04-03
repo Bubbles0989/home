@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="introduction-block">
+    <div class="about-section row">
+        <div class='about-section-header'>
+            <img class="shinji-gif" src="../img/shinji_fishing_1.gif" alt="Intro Gif">
+        </div>
+        <div class='about-section-body' style="text-align:left;">
+            <h1>Hello There<img class='heart-balloon heart-balloon-animation' src='img/heart-balloon.svg'></h1>
+            <p style="margin-top: 15px;width:250px;">My name is Jasper. I'm a software engineer, gifmaker, video game developer, 3D Modeler, photographer, and artist.</video></p>
+            <form>
+                <button class="index-button" asp-action='details' asp-controller="home">More about Me</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="content-background-fr fade">  
+    <div class="home-container row">
+        <div class='index-box-one col'>
+            <img class='index-gif' src="../img/rei_q_reading.gif" alt="ReiQ Gif">
+        </div>
+
+        <div class='index-box-two col'>
+            <p class='text left'>As a creative, I start a lot of projects. Most of which are sketches on a digital canvas. Sometimes, though, they're more interesting. Like this website, or the minecraft mods I've been tinkering with. If you're interested, I have the githubs of some of my projects available.</p>
+            <form>
+                <button class="index-button" asp-action='projects' asp-controller="home">Project Center</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="content-background-fl fade">
+    <div class="home-container row">
+        <div class='index-box-one col'>
+            <p class='text right'>If you're interested in my sketches mentioned above, you can find some of my favorites of them in the Gallery. Otherwise, I put my gifs in there too. Among other things, probably. Good luck.</p>
+            <form class='form-right'>
+                <button class="index-button" asp-action='gallery' asp-controller="home">Image Gallery</button>
+            </form>
+        </div>
+
+        <div class='index-box-two col'>
+            <img class='index-gif' src="../img/eyepatch_asuka_1.gif" alt="Asuka Gif">
+        </div>
+    </div>
+</div>
+
+<div class="content-background-fr fade">  
+    <div class="home-container row">
+        <div class='index-box-one col'>
+            <img class='index-gif' src="../img/shinji_fishing_1.gif" alt="shinji Gif">
+        </div>
+
+        <div class='index-box-two col'>
+            <p class='text left'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summum a vobis bonum voluptas dicitur. Animum autem reliquis rebus ita perfecit, ut corpus; Animum autem reliquis rebus ita perfecit, ut corpus; Quid nunc honeste dicit? Quid adiuvas?</p>
+            <form>
+                <button class="index-button" asp-action='projects' asp-controller="home">button</button>
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Byte4Byte-Canvas.props" />
+</Project>

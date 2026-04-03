@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/docs-app/css/compiled-4.20.0.min.css">
+    <link rel="stylesheet" href="~/Byte4Byte_Canvas.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+<body class='bg-dark' style="overflow-x: hidden;">
+        <nav id="navbar" class="navbar navbar-dark">
+            <a class="navbar-brand" asp-action='index' asp-controller="home">Home</a>
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <img class='arrow arrow-animation-left-arrow' src='../img/right.svg'>
+                </li>
+                <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="true" style='color:white;'>Options</a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" style='color:white;' asp-action='index' asp-controller="home">Home</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" style='color:white;' asp-action='details' asp-controller="home">About Bub</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" style='color:white;' asp-action='projects' asp-controller="home">Projects</a></li>
+                </ul>
+                </li>
+                <li class="nav-item">
+                    <img class='arrow arrow-animation-right-arrow' src='../img/left.svg'>
+                </li>
+            </ul>
+        </nav>
+
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+
+    <footer class="footer-section">
+        <div class="footer-contents">
+            <p>This is the bottom of the page. Thanks for visiting this far.</p>
+        </div>
+    </footer>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
