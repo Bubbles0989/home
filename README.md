@@ -28,6 +28,6 @@
 
 ## Hello
 
-Thank you for visiting
+Thank you for visiting. This is the codebase for my website. 
 
 

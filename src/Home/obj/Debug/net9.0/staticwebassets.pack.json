@@ -1,307 +1,271 @@
 {
   "Files": [
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Home.bundle.scp.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Home.bundle.scp.css",
       "PackagePath": "staticwebassets\\Home.pwzceq3yid.bundle.scp.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\css\\site.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\favicon.ico",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\15suisei.gif",
-      "PackagePath": "staticwebassets\\img\\15suisei.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\35suitowa.gif",
-      "PackagePath": "staticwebassets\\img\\35suitowa.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\7suisei.gif",
-      "PackagePath": "staticwebassets\\img\\7suisei.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\8towasama.gif",
-      "PackagePath": "staticwebassets\\img\\8towasama.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\aqutowa.gif",
-      "PackagePath": "staticwebassets\\img\\aqutowa.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\car1_2.gif",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\img\\car1_2.gif",
       "PackagePath": "staticwebassets\\img\\car1_2.gif"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\eyepatch_asuka_1.gif",
-      "PackagePath": "staticwebassets\\img\\eyepatch_asuka_1.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\heart-balloon.svg",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\img\\heart-balloon.svg",
       "PackagePath": "staticwebassets\\img\\heart-balloon.svg"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\left.svg",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\img\\left.svg",
       "PackagePath": "staticwebassets\\img\\left.svg"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\oh wrow.gif",
-      "PackagePath": "staticwebassets\\img\\oh wrow.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\rei_q_reading.gif",
-      "PackagePath": "staticwebassets\\img\\rei_q_reading.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\right.svg",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\img\\right.svg",
       "PackagePath": "staticwebassets\\img\\right.svg"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\shinji_fishing_1.gif",
-      "PackagePath": "staticwebassets\\img\\shinji_fishing_1.gif"
-    },
-    {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\sodamachine.gif",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\img\\sodamachine.gif",
       "PackagePath": "staticwebassets\\img\\sodamachine.gif"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\img\\triangle_mailbox.gif",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\img\\triangle_mailbox.gif",
       "PackagePath": "staticwebassets\\img\\triangle_mailbox.gif"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\js\\site.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "S:\\Github\\Home Site\\home\\src\\Home\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "S:\\Github\\Home Site\\home\\src\\home\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

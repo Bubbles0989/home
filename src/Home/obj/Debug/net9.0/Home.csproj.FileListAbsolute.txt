@@ -252,12 +252,10 @@ S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\Home.sourcelink.json
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\scopedcss\bundle\Home.styles.css
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\scopedcss\projectbundle\Home.bundle.scp.css
-S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\94t1hrmjor-xn8xdeyjfa.gz
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\jr2z5jg6so-61n19gt1b8.gz
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\kli01auczj-if2ecowvr5.gz
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\ul7c9dm6pq-68c9977go0.gz
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\0larjy0yek-kzioozeg4p.gz
-S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\ce8wyaig1g-dmbvoh0t9h.gz
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\4bb2r1d77j-agp80tu62r.gz
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\ufeh0m9pjz-st1cbwfwo5.gz
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\compressed\jxrh5rn4nz-unj9p35syc.gz
@@ -331,3 +329,5 @@ S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\refint\Home.dll
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\Home.pdb
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\Home.genruntimeconfig.cache
 S:\Github\Home Site\home\src\Home\obj\Debug\net9.0\ref\Home.dll
+S:\Github\Home Site\home\src\home\obj\Debug\net9.0\compressed\ce8wyaig1g-92oiz43zz9.gz
+S:\Github\Home Site\home\src\home\obj\Debug\net9.0\compressed\94t1hrmjor-w15ezztqe6.gz

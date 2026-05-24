@@ -52,3 +52,4 @@ closeButton.on('click', function(){
   navbar.classList.add("sticky")
   $('#galleryModal').css('display', 'none');
 })
+

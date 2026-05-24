@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Github\\Home Site\\home\\src\\Home\\Home.csproj": {}
+    "S:\\Github\\Home Site\\home\\src\\home\\Home.csproj": {}
   },
   "projects": {
-    "S:\\Github\\Home Site\\home\\src\\Home\\Home.csproj": {
+    "S:\\Github\\Home Site\\home\\src\\home\\Home.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Github\\Home Site\\home\\src\\Home\\Home.csproj",
+        "projectUniqueName": "S:\\Github\\Home Site\\home\\src\\home\\Home.csproj",
         "projectName": "Home",
-        "projectPath": "S:\\Github\\Home Site\\home\\src\\Home\\Home.csproj",
+        "projectPath": "S:\\Github\\Home Site\\home\\src\\home\\Home.csproj",
         "packagesPath": "C:\\Users\\Bubbles\\.nuget\\packages\\",
-        "outputPath": "S:\\Github\\Home Site\\home\\src\\Home\\obj\\",
+        "outputPath": "S:\\Github\\Home Site\\home\\src\\home\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
